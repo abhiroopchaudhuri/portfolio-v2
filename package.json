@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-v2",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/portfolio-v2",
+  "homepage": "https://abhiroopchaudhuri.github.io/portfolio-v2/",
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
     "@testing-library/jest-dom": "^5.17.0",
